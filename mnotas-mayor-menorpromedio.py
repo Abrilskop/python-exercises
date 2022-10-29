@@ -1,3 +1,6 @@
+# Nivel 8.4
+# Elaborar un algoritmo que permita ingresar el nombre de N estudiantes, determine el promedio de M notas,determine que alumno tiene el mayor promedio
+# y que estudiante tiene el menor promedio.
 # Autor: skop
 # fecha: 26 de Octubre del 2022
 # acción : Determinar el promedio de M notas y determine que alumno tiene el mayor promedio y que estudiante tiene el menor promedio. 
